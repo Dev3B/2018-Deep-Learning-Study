@@ -8,8 +8,8 @@ Name | Organization | E-mail
 ------ | ---------------- | ----------------
 [Kang Jun Ha](https://github.com/kangjunha) | Ajou University | pointjunha@naver.com
 [Kim Dong Hui](https://github.com/rookie0806) | Ajou University | jbshs2013@naver.com
-. | Ajou University | .
-. | Ajou University | .
+[Park Jae Hyong](https://github.com/namingsense) | Ajou University | skyvieweye@gmail.com
+[Myeong Seung Ju](https://github.com/4lvita) | Ajou University | aegc123@naver.com
 
 ## Our Goal?
 
